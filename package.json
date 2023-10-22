@@ -1,8 +1,8 @@
 {
-  "name": "photo_album_app",
+  "name": "photo-album-app",
   "version": "0.1.0",
   "bin": {
-    "photo_album_app": "bin/photo_album_app.js"
+    "photo_album_app": "backend/bin/photo-album-app.js"
   },
   "scripts": {
     "build": "tsc",

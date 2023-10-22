@@ -5,4 +5,13 @@ node_modules
 
 # CDK asset staging directory
 .cdk.staging
-cdk.out
+cdk.out/
+
+backend/assets/venv/
+
+backend/assets/LF1-index-photos/package/
+backend/assets/LF1-index-photos/*.zip
+backend/assets/LF2-search-photos/package/
+backend/assets/LF2-search-photos/*.zip
+
+.idea

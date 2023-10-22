@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/photo_album_app.ts",
+  "app": "npx ts-node --prefer-ts-exts backend/bin/photo-album-app.ts",
   "watch": {
     "include": [
       "**"
